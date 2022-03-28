@@ -109,6 +109,7 @@ p {
 
 /*End Benefit Section */
 
+/* style text */ 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -117,6 +118,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* End Style Text */
 
 /* Start Images Section */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
